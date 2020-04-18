@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(236, 147, 14, 0.253);
+    ;
+}
+
+ul {
+    color: #21243d;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5;
+    border-color: grey;
+    width: 5%;
+}
+
+h1 {
+    color: #1243d;
+}
